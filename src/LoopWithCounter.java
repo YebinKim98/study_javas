@@ -1,4 +1,4 @@
-public class LoopWhilesCounter {
+public class LoopWithCounter {
     public static void main(String[] args) {
         int second = 1;
 
