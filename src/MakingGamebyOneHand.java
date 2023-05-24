@@ -14,6 +14,6 @@ public class MakingGamebyOneHand {
   System.out.println(first);
   System.out.println(second);
   System.out.println(third);
-        // return 0;
+    // return 0;
   }
 }
